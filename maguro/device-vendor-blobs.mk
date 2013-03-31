@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/maguro/proprietary/sirfgps.conf:system/vendor/etc/sirfgps.conf \
     vendor/samsung/maguro/proprietary/bcm4330.hcd:system/vendor/firmware/bcm4330.hcd \
     vendor/samsung/maguro/proprietary/ducati-m3.bin:system/vendor/firmware/ducati-m3.bin \
+    vendor/samsung/maguro/proprietary/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/maguro/proprietary/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/samsung/maguro/proprietary/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/samsung/maguro/proprietary/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
